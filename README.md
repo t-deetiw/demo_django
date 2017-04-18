@@ -1,3 +1,5 @@
+# Python Version: 3.6.1 and Django Version: 1.11
+
 ## Model and Migration
  - Change your models (in models.py).
  # commands
