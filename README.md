@@ -9,3 +9,6 @@
     - python manage.py makemigrations
   3. To apply those changes to the database.
     - python manage.py migrate
+
+## Tests
+  python manage.py test polls 
